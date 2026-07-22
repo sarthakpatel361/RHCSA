@@ -10,3 +10,4 @@ Topics covered
 7 : SystemD
 8: firewall
 9: tuning
+10: Password reset
